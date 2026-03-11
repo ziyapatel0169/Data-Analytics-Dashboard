@@ -51,3 +51,12 @@ Analyze store sales performance to identify revenue trends, profit distribution,
 * Monthly sales trends
 * Category performance
 * Payment mode analysis
+
+  ## Skills Used
+
+• Microsoft Excel
+• Power BI
+• Data Visualization
+• Pivot Tables
+• Data Analysis
+• Dashboard Design
