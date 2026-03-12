@@ -9,6 +9,8 @@ This repository contains data analytics dashboards created using Excel and Power
 ### Problem Statement
 
 Analyze jewellery store sales performance to identify top products, revenue trends, and city-wise sales distribution.
+![jewellery_dashboard_preview](https://github.com/user-attachments/assets/78191a51-b8b3-483f-898c-65c00ba572b6)
+
 
 ### Tools Used
 
@@ -38,6 +40,7 @@ Analyze jewellery store sales performance to identify top products, revenue tren
 ### Problem Statement
 
 Analyze store sales performance to identify revenue trends, profit distribution, and category performance.
+![patel_dashboard_preview](https://github.com/user-attachments/assets/03c868f3-9c23-412c-8dea-90a90bbdb06d)
 
 ### Tools Used
 
