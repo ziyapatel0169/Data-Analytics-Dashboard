@@ -23,6 +23,36 @@ These projects demonstrate practical skills in **data analysis, data visualizati
 # Projects
 
 ---
+# E-Commerce Customer Analytics Dashboard (Power BI)
+
+## Problem Statement
+
+Analyze e-commerce transactional data to understand **customer purchasing behavior, product performance, and geographic sales distribution**.
+The objective of this dashboard is to transform raw transaction data into actionable insights that help businesses improve **customer retention, product strategy, and revenue growth**.
+
+
+## Tools Used
+
+• Power BI
+• Data Modeling
+• DAX Measures
+• Data Visualization
+
+## Dashboard Features
+
+• KPI metrics (Total Revenue, Total Orders, Total Customers, Average Order Value)
+• Monthly revenue trend analysis to identify seasonal sales patterns
+• Top 10 products contributing the highest revenue
+• Identification of top customers generating major revenue
+• Geographic revenue distribution using a world map visualization
+• Customer segmentation analysis (Repeat vs One-time customers)
+
+## Key Insights
+
+• A small number of products contribute significantly to overall revenue.
+• The majority of revenue is generated from the **United Kingdom market**.
+• A few high-value customers account for a large share of total sales.
+• Repeat customers contribute significantly more long-term revenue than one-time buyers.
 
 # Jewellery Sales Dashboard (Excel)
 
